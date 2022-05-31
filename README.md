@@ -172,3 +172,9 @@ Route::group(['middleware' => 'auth:sanctum'], function(){
 Route::post("login",[UserController::class,'index']);
 
 ````
+
+
+#
+## Youtube
+
+https://www.youtube.com/watch?v=_2-8LaT4inA
